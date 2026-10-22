@@ -1,6 +1,5 @@
 OLED_ENABLE = yes
-OLED_TRANSPORT = i2c
-OLED_DRIVER = ssd1306
+
 
 # Required for RP2040
 LTO_ENABLE = yes
